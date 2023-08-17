@@ -4,7 +4,7 @@
 }
 
 .fundo{
-    background-image: linear-gradient(45deg, rgb(80, 80, 80), rgb(10, 10, 10));
+    background-image: linear-gradient(45deg, rgb(80, 80, 80), rgb(60, 50, 60));
     height: 100vh;
     color: white;
     font-family: Arial, Arial, Arial;
@@ -13,7 +13,7 @@
 
 .calculadora{
     position: absolute;
-    background-color: rgba(30, 30, 30, 1);
+    background-color: rgba(30, 30, 30, 0);
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
